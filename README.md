@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="koels — kyle · builder · koels.site"/>
+<img src="https://raw.githubusercontent.com/koels/koels/main/assets/header.svg" width="100%" alt="koels — kyle · builder · koels.site"/>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="./assets/wave.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/koels/koels/main/assets/wave.svg" width="100%" alt=""/>
 
 </div>
 
@@ -98,9 +98,9 @@ kyle@koels.site · discord @koels
 
 ### `~/stats`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=koels&show_icons=true&theme=transparent&title_color=40c8ff&icon_color=00ffcc&text_color=c8f0ff&bg_color=00000000&border_color=1a3a50&hide_border=true&include_all_commits=true&count_private=true" alt="github stats"/>
+<img height="165" src="https://github-readme-stats-alpha.vercel.app/api?username=koels&show_icons=true&theme=transparent&title_color=40c8ff&icon_color=00ffcc&text_color=c8f0ff&bg_color=00000000&border_color=1a3a50&hide_border=true&include_all_commits=true&count_private=true" alt="github stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=koels&theme=transparent&background=00000000&border=1a3a50&stroke=1a3a50&ring=40c8ff&fire=00ffcc&currStreakLabel=40c8ff&sideLabels=c8f0ff&currStreakNum=c8f0ff&sideNums=c8f0ff&dates=64748b" alt="streak stats"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=koels&theme=transparent&background=00000000&border=1a3a50&stroke=1a3a50&ring=40c8ff&fire=00ffcc&currStreakLabel=40c8ff&sideLabels=c8f0ff&currStreakNum=c8f0ff&sideNums=c8f0ff&dates=64748b" alt="streak stats"/>
 
 <br/><br/>
 
