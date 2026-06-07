@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/koels/koels/main/assets/header.svg" width="100%" alt="koels — kyle · builder · koels.site"/>
+<img src="https://raw.githubusercontent.com/koels/koels/main/assets/header.svg?v=2" width="100%" alt="koels — kyle · builder · koels.site"/>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/koels/koels/main/assets/wave.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/koels/koels/main/assets/wave.svg?v=2" width="100%" alt=""/>
 
 </div>
 
