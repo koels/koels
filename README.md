@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/koels/koels/main/assets/header.svg?v=2" width="100%" alt="koels — kyle · builder · koels.site"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,50:003366,100:020810&height=220&section=header&text=koels&fontSize=72&fontColor=40c8ff&fontAlignY=38&animation=fadeIn&desc=KYLE+%C2%B7+BUILDER+%C2%B7+KOELS.SITE&descSize=14&descAlignY=58&descAlign=50,65&stroke=00ffcc" width="100%" alt="koels — kyle · builder · koels.site"/>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/koels/koels/main/assets/wave.svg?v=2" width="100%" alt=""/>
+<img src="https://cdn.jsdelivr.net/gh/koels/koels@main/assets/wave.svg" width="100%" alt=""/>
 
 </div>
 
