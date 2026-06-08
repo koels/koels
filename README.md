@@ -57,7 +57,7 @@ kyle@tame.gg · discord @koels
 #### 🌩️ [Radar](https://koels.site/radar)
 > Live global weather radar — animated playback, severe alerts, location search.
 
-`beta` · [open →](https://koels.site/radar)
+`beta` · [view →](https://koels.site/radar)
 
 <br/>
 
@@ -72,7 +72,7 @@ kyle@tame.gg · discord @koels
 #### 🌍 [Globe](https://koels.site/globe)
 > Live 3D earth — earthquakes, storms, wildfires, volcanoes from official feeds.
 
-`live` · [open →](https://koels.site/globe)
+`live` · [view →](https://koels.site/globe)
 
 <br/>
 
@@ -86,7 +86,8 @@ kyle@tame.gg · discord @koels
 #### ⛏ [SilkMC](https://koels.site/silkmc)
 > Folia fork pushing Paper/Bukkit/Spigot plugin compatibility on regional threading.
 
-`alpha` · [open →](https://koels.site/silkmc)
+`alpha` · [view →](https://koels.site/silkmc)
+
 
 </td>
 </tr>
