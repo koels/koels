@@ -36,7 +36,7 @@ $ ping koels.online
 ⛏ minecraft server — usually online, friends welcome
 
 $ echo $CONTACT
-kyle@koels.site · discord @koels
+kyle@tame.gg · discord @koels
 ```
 
 ---
@@ -86,7 +86,7 @@ kyle@koels.site · discord @koels
 #### ⛏ [SilkMC](https://koels.site/silkmc)
 > Folia fork pushing Paper/Bukkit/Spigot plugin compatibility on regional threading.
 
-`alpha` · [docs](https://docs.koels.site)
+`alpha` · [open →](https://koels.site/silkmc)
 
 </td>
 </tr>
