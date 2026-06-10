@@ -32,9 +32,6 @@ kyle · 20 · tinkerer
 $ cat interests.txt
 computers, game servers, weird side projects, making things just to see if they work
 
-$ ping koels.online
-⛏ minecraft server — usually online, friends welcome
-
 $ echo $CONTACT
 kyle@tame.gg · discord @koels
 ```
