@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,50:003366,100:020810&height=220&section=header&text=koels&fontSize=72&fontColor=40c8ff&fontAlignY=38&animation=fadeIn&desc=KYLE+%C2%B7+BUILDER+%C2%B7+KOELS.SITE&descSize=14&descAlignY=58&descAlign=50,65&stroke=00ffcc" width="100%" alt="koels — kyle · builder · koels.site"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,50:003366,100:020810&height=220&section=header&text=koels&fontSize=72&fontColor=40c8ff&fontAlignY=38&animation=fadeIn&desc=KYLE+%C2%B7+BUILDER+%C2%B7+KOELS.NET&descSize=14&descAlignY=58&descAlign=50,65&stroke=00ffcc" width="100%" alt="koels — kyle · builder · koels.net"/>
 
 <br/>
 
@@ -10,9 +10,9 @@
 <br/><br/>
 
 <!-- quick links -->
-[![Website](https://img.shields.io/badge/koels.site-020810?style=for-the-badge&logo=safari&logoColor=40c8ff)](https://koels.site)
-[![Links](https://img.shields.io/badge/all_links-020810?style=for-the-badge&logo=linktree&logoColor=00ffcc)](https://koels.site/links)
-[![Status](https://img.shields.io/badge/status-020810?style=for-the-badge&logo=statuspage&logoColor=40c8ff)](https://koels.site/status)
+[![Website](https://img.shields.io/badge/koels.net-020810?style=for-the-badge&logo=safari&logoColor=40c8ff)](https://koels.net)
+[![Links](https://img.shields.io/badge/all_links-020810?style=for-the-badge&logo=linktree&logoColor=00ffcc)](https://koels.net/links)
+[![Status](https://img.shields.io/badge/status-020810?style=for-the-badge&logo=statuspage&logoColor=40c8ff)](https://koels.net/status)
 [![Discord](https://img.shields.io/badge/@koels-020810?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/7VdjWMMtSc)
 
 <br/><br/>
@@ -44,32 +44,32 @@ kyle@tame.gg · discord @koels
 <tr>
 <td width="50%" valign="top">
 
-#### 🔌 [Conduit](https://koels.site/conduit)
+#### 🔌 [Conduit](https://koels.net/conduit)
 > Velocity fork for modded MC networks. NeoForge/Forge support, smart compression, configurable networking.
 
-`live` · [view →](https://koels.site/conduit)
+`live` · [view →](https://koels.net/conduit)
 
 <br/>
 
-#### 🌩️ [Radar](https://koels.site/radar)
+#### 🌩️ [Radar](https://koels.net/radar)
 > Live global weather radar — animated playback, severe alerts, location search.
 
-`beta` · [view →](https://koels.site/radar)
+`beta` · [view →](https://koels.net/radar)
 
 <br/>
 
-#### 🧮 [Calculator](https://koels.site/calculator)
+#### 🧮 [Calculator](https://koels.net/calculator)
 > A calculator. With a paywall. You'll see.
 
-`live` · [try it →](https://koels.site/calculator)
+`live` · [try it →](https://koels.net/calculator)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌍 [Globe](https://koels.site/globe)
+#### 🌍 [Globe](https://koels.net/globe)
 > Live 3D earth — earthquakes, storms, wildfires, volcanoes from official feeds.
 
-`live` · [view →](https://koels.site/globe)
+`live` · [view →](https://koels.net/globe)
 
 <br/>
 
@@ -80,11 +80,10 @@ kyle@tame.gg · discord @koels
 
 <br/>
 
-#### ⛏ [SilkMC](https://koels.site/silkmc)
+#### ⛏ [SilkMC](https://koels.net/silkmc)
 > Folia fork pushing Paper/Bukkit/Spigot plugin compatibility on regional threading.
 
-`alpha` · [view →](https://koels.site/silkmc)
-
+`alpha` · [view →](https://koels.net/silkmc)
 
 </td>
 </tr>
@@ -110,7 +109,7 @@ kyle@tame.gg · discord @koels
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,100:003366&height=100&section=footer&text=koels.site&fontSize=24&fontColor=40c8ff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,100:003366&height=100&section=footer&text=koels.net&fontSize=24&fontColor=40c8ff&animation=twinkling"/>
 
 <br/>
 

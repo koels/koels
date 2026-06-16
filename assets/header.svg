@@ -32,7 +32,7 @@
   <circle cx="450" cy="52" r="4" fill="#00ffcc" opacity="0.9"/>
 
   <text x="450" y="108" text-anchor="middle" font-family="monospace" font-size="52" font-weight="700" fill="url(#grad)">koels</text>
-  <text x="450" y="142" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="4" fill="#c8f0ff" opacity="0.55">KYLE &#183; BUILDER &#183; KOELS.SITE</text>
+  <text x="450" y="142" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="4" fill="#c8f0ff" opacity="0.55">KYLE &#183; BUILDER &#183; KOELS.NET</text>
 
   <line x1="280" y1="168" x2="620" y2="168" stroke="url(#grad)" stroke-width="1" opacity="0.35"/>
 </svg>
