@@ -71,15 +71,6 @@ kyle@tame.gg · discord @koels
 
 `live` · [view →](https://koels.net/globe)
 
-<br/>
-
-#### 🎯 Vanta
-> Valorant tracker — stats, match history, more. Actively in development.
-
-`wip` · no ETA yet
-
-<br/>
-
 #### ⛏ [SilkMC](https://koels.net/silkmc)
 > Folia fork pushing Paper/Bukkit/Spigot plugin compatibility on regional threading.
 
