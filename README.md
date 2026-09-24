@@ -71,10 +71,10 @@ kyle@tame.gg · discord @koels
 
 `live` · [view →](https://koels.net/globe)
 
-#### ⛏ [SilkMC](https://koels.net/silkmc)
+#### ⛏ [Silk](https://koels.net/silkmc)
 > Folia fork pushing Paper/Bukkit/Spigot plugin compatibility on regional threading.
 
-`alpha` · [view →](https://koels.net/silkmc)
+`alpha` · [view →](https://koels.net/silk)
 
 </td>
 </tr>
