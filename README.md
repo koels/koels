@@ -92,7 +92,6 @@ kyle@tame.gg · discord @koels
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=koels&bg_color=020810&color=40c8ff&line=00ffcc&point=c8f0ff&area=true&area_color=40c8ff&title_color=c8f0ff&custom_title=activity&hide_border=true" width="100%" alt="activity graph"/>
 
 </div>
 
